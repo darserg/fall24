@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fall24", "fall24\fall24.csproj", "{53E76F2A-D926-42B9-9FB1-71B0F1E69EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E76F2A-D926-42B9-9FB1-71B0F1E69EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E76F2A-D926-42B9-9FB1-71B0F1E69EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E76F2A-D926-42B9-9FB1-71B0F1E69EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E76F2A-D926-42B9-9FB1-71B0F1E69EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
